@@ -34,7 +34,7 @@ public class VisionCameraColorDetectorPlugin: FrameProcessorPlugin {
     let image = UIImage(cgImage: cgImage)
     var quality: UIImageColorsQuality = .lowest
 
-    if !args.isEmpty {
+    if args != nil && !args!.isEmpty {
       if let qualityArg = args?["quality"] as? NSString {
         switch (qualityArg) {
           case "lowest":

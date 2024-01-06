@@ -1,6 +1,6 @@
 {
   "name": "vision-camera-color-detector",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "private": false,
   "description": "React Native Vision Camera Frame Processor Plugin for detecting colors in realtime",
   "main": "lib/commonjs/index",

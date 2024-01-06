@@ -507,7 +507,7 @@ PODS:
     - React-callinvoker
     - React-Core
     - react-native-worklets-core
-  - VisionCameraColorDetector (1.0.0):
+  - VisionCameraColorDetector (0.1.1):
     - React-Core
     - UIImageColors
   - Yoga (1.14.0)
@@ -762,10 +762,10 @@ SPEC CHECKSUMS:
   SocketRocket: f32cd54efbe0f095c4d7594881e52619cfe80b17
   UIImageColors: d2ef3b0877d203cbb06489eeb78ea8b7788caabe
   VisionCamera: ce927c396e1057199dd01bf412ba3777d900e166
-  VisionCameraColorDetector: 5ba94d67b4e484456d5740a47e45a0f15877b5be
+  VisionCameraColorDetector: 5fa8dde681b8ac03dbcaaf7e34e05c0956f94d15
   Yoga: 86fed2e4d425ee4c6eab3813ba1791101ee153c6
   YogaKit: f782866e155069a2cca2517aafea43200b01fd5a
 
-PODFILE CHECKSUM: 0b710f4607983fe7885169aeafdd64481657def7
+PODFILE CHECKSUM: 33ebf5736da2bd8f5cc3ed44a00f3c75fce0424f
 
 COCOAPODS: 1.14.3
